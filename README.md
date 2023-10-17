@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
- <img src="https://github.com/vernonthedev/vernonthedev/assets/108737724/3f3220fb-bed3-4b3c-896e-ab11b7f84205" width="1000px" />
+ <img src="https://github.com/vernonthedev/vernonthedev/assets/108737724/3f3220fb-bed3-4b3c-896e-ab11b7f84205" width="500px" />
 </div>
 
 <div id="badges" align="center">
