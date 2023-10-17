@@ -1,9 +1,6 @@
 
 
 <div id="header" align="center">
-
-
-
  <img src="https://github.com/vernonthedev/vernonthedev/assets/108737724/42deefff-99fc-4300-a235-cb14a81d8057" width="500px" />
 </div>
 
@@ -20,9 +17,11 @@
   <img src="https://komarev.com/ghpvc/?username=vernonthedev&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋 Am a Software developer and Cyber Security Engineer.
+<div align="center">
+Hi there 👋 Am a Software developer and Cyber Security Engineer.
+ 
 >Welcome to my Repo.
-
+</div>
 <!--
 **vernonthedev/vernonthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
