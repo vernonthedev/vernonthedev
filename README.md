@@ -19,10 +19,10 @@
 Hi there 👋 Am a Software developer and Cyber Security Engineer.
  
 Welcome to my Repo.<br>
-<a href="https://www.buymeacoffee.com/vernonthedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="k5GqzcKgt" /></a><br>
+<a href="https://www.buymeacoffee.com/vernonthedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vernonthedev" /></a><br>
 </div>
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev" alt="vernonthedev" /></a> </p>
 ### Hi 👋, I'm Vernon Masamba 👋
 
 - 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
