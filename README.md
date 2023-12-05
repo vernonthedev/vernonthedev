@@ -18,8 +18,10 @@
 <div align="center">
 Hi there 👋 Am a Software developer and Cyber Security Engineer.
  
->Welcome to my Repo.
+Welcome to my Repo.<br>
+<a href="https://www.buymeacoffee.com/vernonthedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="k5GqzcKgt" /></a><br>
 </div>
+
 
 ### Hi 👋, I'm Vernon Masamba 👋
 
@@ -52,6 +54,10 @@ Hi there 👋 Am a Software developer and Cyber Security Engineer.
 
 <br />
 <br />
+
+
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
