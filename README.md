@@ -23,6 +23,13 @@ Welcome to my Repo.<br>
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev" alt="vernonthedev" /></a> </p>
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=3000&pause=1000&random=false&width=435&lines=vernonthedev+a+fast+learner..;Fast+problem+solver+and+top+notch;Coding+is+my+thing!;Can't+help+but+code+for+coffee.)](https://git.io/typing-svg)
+
+</div>
+
 ### Hi 👋, I'm Vernon Masamba 👋
 
 - 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
