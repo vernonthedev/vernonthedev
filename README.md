@@ -1,8 +1,5 @@
 <div id="header" align="center">
- <img src="https://github.com/vernonthedev/vernonthedev/assets/108737724/66f0ff6a-148e-4f3f-a8a0-2070e53c071d" width="300px" />
- 
-
-
+  <img src="https://github.com/vernonthedev/File-Management-System/assets/108737724/a5c0c0e3-0f4f-4ab9-9bf6-c256ff2efd86" width="300px" />
 </div>
 
 <div id="badges" align="center">
