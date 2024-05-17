@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://github.com/vernonthedev/File-Management-System/assets/108737724/a5c0c0e3-0f4f-4ab9-9bf6-c256ff2efd86" width="300px" />
-</div>
+</div>-->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vernonthedev/">
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-Hi there 👋 Am a Software developer and Cyber Security Engineer.
+Hi there 👋 Am a Software Engineer and Cyber Security Engineer.
  
 Welcome to my Repo.<br>
 <a href="https://www.buymeacoffee.com/vernonthedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vernonthedev" /></a><br>
@@ -24,21 +24,15 @@ Welcome to my Repo.<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev" alt="vernonthedev" /></a> </p>
 
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=3000&pause=1000&random=false&width=435&lines=vernonthedev+a+fast+learner..;Fast+problem+solver+and+top+notch;Coding+is+my+thing!;Can't+help+but+code+for+coffee.)](https://git.io/typing-svg)
-
-</div>
 
 ### Hi 👋, I'm Vernon Masamba 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
-- 🌱 I’m currently learning NodeJs and Express
-- 👯 I’m looking to collaborate on Youtube, Full Stack Developer and Cybersecurity
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... MERN
-- 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... I am Funny and I love to Code
+- 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
+- 🌱 I’m currently learning  Figma, Sass, UI, and Frontend Development
+- 👯 I’m looking to collaborate on YouTube, Full Stack Development, and Cybersecurity
+- 🤔 I’m looking for help with ... Flutter Apps
+- 💬 Ask me about ... Laravel.
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -47,18 +41,16 @@ Welcome to my Repo.<br>
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" style="padding-right:10px;" />
 <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
-
 <br />
 <br />
 
