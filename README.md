@@ -30,8 +30,8 @@ Welcome to my Repo.<br>
 - 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
 - 🌱 I’m currently learning  Figma, Sass, UI, and Frontend Development
 - 👯 I’m looking to collaborate on YouTube, Full Stack Development, and Cybersecurity
-- 🤔 I’m looking for help with ... Flutter Apps
-- 💬 Ask me about ... Laravel.
+- 🤔 I’m looking for help with ... Advanced UI Development
+- 💬 Ask me about ... Laravel Web Development.
 
 
 ### Languages and Tools:
