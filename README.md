@@ -3,8 +3,6 @@
 </div>-->
 ![readme](https://github.com/vernonthedev/vernonthedev/assets/108737724/001132fa-e7a7-4030-9fbb-0b8591b8b6fd)
 
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vernonthedev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
