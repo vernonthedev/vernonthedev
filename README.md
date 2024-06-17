@@ -17,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=vernonthedev&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+
 <div align="center">
 Hi there 👋 
 Welcome to my Git Repo.<br>
