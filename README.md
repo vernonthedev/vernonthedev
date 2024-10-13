@@ -32,9 +32,9 @@ Welcome to my Git Repo.<br>
 ### Hi 👋, I'm Vernon Masamba 👋
 
 - 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
-- 🌱 I’m currently learning  Figma, Sass, Machine learning in flutter, and Frontend Development
+- 🌱 I’m currently learning  Figma, Sass, Machine learning in Flutter, and Frontend Development
 - 👯 I’m looking to collaborate on YouTube, Full Stack Development, and Cybersecurity
-- 🤔 I’m looking for help with ... Advanced UI Development
+- 🤔 I’m looking for help with ... Advanced Flutter UI Development
 - 💬 Ask me about ...Laravel Web Development....
 
 
