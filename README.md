@@ -35,7 +35,7 @@ Welcome to my Git Repo.<br>
 - 🌱 I’m currently learning  Figma, Sass, Machine learning in Flutter, and Frontend Development
 - 👯 I’m looking to collaborate on YouTube, Full Stack Development, and Cybersecurity
 - 🤔 I’m looking for help with ... Advanced Flutter UI Development
-- 💬 Ask me about ...Laravel Web Development.
+- 💬 Ask me about ...Laravel Web Development....
 
 
 ### Languages and Tools:
