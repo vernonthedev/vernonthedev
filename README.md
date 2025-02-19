@@ -63,6 +63,7 @@ Welcome to my Git Repo.<br>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
