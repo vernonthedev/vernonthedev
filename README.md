@@ -28,7 +28,7 @@ Hi there 👋
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev&theme=discord" alt="vernonthedev" /></a> </p>
 
 
-### Hey 👋, I'm Vernon  👋
+### Hey 👋, I'm Vernon Masamba👋
 
 - 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
 - 🌱 I’m currently learning  Figma, Sass, Machine learning in Flutter, and Frontend Development using Nexjs
