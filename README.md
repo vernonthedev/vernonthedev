@@ -42,15 +42,6 @@
 <br />
 
 ---
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=There%20is%20an%20essence%20of%20when%20you%20are%20fearless%2C%20you%20become%20more%20creative.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 
 <!--Contact Section--> 
 
@@ -84,6 +75,7 @@
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false">
 </p>
 
 
