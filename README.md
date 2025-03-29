@@ -16,16 +16,15 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I am Passionate about artificial intelligence in mobile applications
+- ✍ I am passionate about AI in mobile applications
 - 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
-- ❤ Contributing to Open Source.
-- 💬 Ask me about ...Laravel Application Development
+- 💬 Ask me about Laravel Application Development
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eddievin&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="eddievin" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=vernonthedev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="vernonthedev" style="padding-right:20px;" />
 </p>
 
 ---
