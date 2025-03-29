@@ -12,12 +12,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ vernonthedev! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Web and mobile apps Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Web and Mobile Apps Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -66,7 +66,7 @@
 
 
 <a href="https://x.com/vernonthedev" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="verononthedev Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
@@ -78,8 +78,7 @@
 
 <!-- Stats -->
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false) <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="vernonthdev stats badges">
 </div>
 
 <!--Footer--> 
@@ -91,7 +90,10 @@
 
 
 <!-- Previous Cards -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev&theme=discord" alt="vernonthedev" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev&theme=discord" alt="vernonthedev" /></a> </p> 
+![](https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false) <br />-->
 
 
 
