@@ -1,5 +1,5 @@
 <!-- Banner -->
-![readme](https://github.com/vernonthedev/vernonthedev/assets/108737724/001132fa-e7a7-4030-9fbb-0b8591b8b6fd)
+<!-- ![readme](https://github.com/vernonthedev/vernonthedev/assets/108737724/001132fa-e7a7-4030-9fbb-0b8591b8b6fd) -->
 
 <!-- Night Owl Image -->
 <div>
