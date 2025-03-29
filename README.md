@@ -70,12 +70,12 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="vernonthdev stats badges">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false" alt="vernonthedev streak badge">
 </div>
 
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false">
 </p>
 
 
