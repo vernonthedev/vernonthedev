@@ -20,7 +20,7 @@
 <p align="left">Web and Mobile Apps Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m learning many things, I believe that everyday is a learning opportunity.
 - ✍ I am passionate about AI in mobile applications
 - 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
 - 💬 Ask me about Laravel Application Development
