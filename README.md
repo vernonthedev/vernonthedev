@@ -22,7 +22,7 @@
 - ✨ Student of life :)
 - 🌱 I’m learning many things, I believe that everyday is a learning opportunity.
 - ✍ I am passionate about AI in mobile applications
-- 🔭 I’m currently working on Flutter Apps & Laravel Web Apps
+- 🔭 I’m currently working on Flutter Apps & Laravel Apps
 - 💬 Ask me about Laravel Application Development
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for more details about me.
 <!--End Intro-->
