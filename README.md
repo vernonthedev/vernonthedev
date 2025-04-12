@@ -1,11 +1,3 @@
-<!-- Previous Banner -->
-<!-- ![readme](https://github.com/vernonthedev/vernonthedev/assets/108737724/001132fa-e7a7-4030-9fbb-0b8591b8b6fd) -->
-
-<!--Banner-->
-<!-- Now Old 
-  ![banner](https://github.com/Eddievin/Eddievin/assets/49716569/27f2dbd9-881c-4951-b069-1e4c247bcb9c)
--->
-
 <!-- Night Owl Image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
