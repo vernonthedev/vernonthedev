@@ -71,13 +71,3 @@
 </p>
 
 
-
-
-<!-- Previous Cards -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=vernonthedev&theme=discord" alt="vernonthedev" /></a> </p> 
-![](https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false) <br />-->
-
-
-
