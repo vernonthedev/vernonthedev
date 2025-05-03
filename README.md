@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Web and Mobile Apps Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, RDBMS, REST API, and Data Visualization. </p>
+<p align="left">Web and Mobile Apps Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, REST API, and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m learning many things, I believe that everyday is a learning opportunity.
