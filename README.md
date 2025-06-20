@@ -12,10 +12,10 @@
 <p align="left">Web and Mobile App Dev. ❄️Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, REST API, Data Analytics and Data Visualization. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m learning many things, I believe that every day is a learning opportunity.
+- 🌱 I’m learning many things, and I believe that every day is a learning opportunity.
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter Apps & Laravel apps.
-- 💬 Ask me about Laravel Application Development
+- 💬 Ask me about Laravel and Flutter.
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra details.
 <!--End Intro-->
 
