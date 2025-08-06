@@ -16,7 +16,7 @@
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter & Laravel apps.
 - 💬 Ask me about Laravel and Flutter.
-- 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info.
+- 💻 Visit my [Portfolio](https://vernonthedev.github.io) for more info.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
