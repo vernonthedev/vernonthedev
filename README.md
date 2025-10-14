@@ -15,7 +15,7 @@
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs.
 - 💬 Ask me about Laravel and Flutter.
-- 💻 Visit my [Portfolio](https://vernonthedev.github.io) for more details.
+- 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
