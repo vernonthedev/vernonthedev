@@ -11,7 +11,7 @@
 <!--Start Intro-->               
 <p align="left">Web and Mobile App Dev. Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, REST API, Data Analytics and Data Visualization. </p>
 
-- 🌱 I’m learning many things, and I believe that every day is a learning opportunity and experience.
+- 🌱 I’m learning many things, and I believe that every day is a learning opportunity.
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs
 - 💬 Ask me about Laravel and Flutter.
