@@ -14,7 +14,7 @@
 - 🌱 I’m learning many things, and I believe that every day is a learning opportunity.
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs
-- 💬 Ask me about Laravel and Flutter.
+- 💬 Ask me about Laravel, JavaScript and Flutter.
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info and collaboration details
 <!--End Intro-->
 
