@@ -1,4 +1,4 @@
-<!-- Night Owl Image -->
+n<!-- Night Owl Image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -14,7 +14,7 @@
 - 🌱 I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space....
 - ✍ I am passionate about AI in mobile applications.
 - 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP webapps.
-- 💬 Ask me about Laravel, JavaScript, Flutter, and React Native.
+- 💬 Ask me about Laravel, Flutter, and React Native.
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info and collaboration info.
 <!--End Intro-->
 
