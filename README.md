@@ -12,7 +12,7 @@ n<!-- Night Owl Image -->
 <p align="left">Web and Mobile App Dev. Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, REST API, Data Analytics, and Data Visualization... </p>
 
 - 🌱 I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space....
-- ✍ I am passionate about AI in mobile applications.
+- ✍ I am passionate about AI in mobile application especially with flutter.
 - 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP webapps.
 - 💬 Ask me about Laravel, Flutter, and React Native.
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info and collaboration info.
