@@ -13,7 +13,7 @@ n<!-- Night Owl Image -->
 
 - 🌱 I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space....
 - ✍ I am passionate about AI in mobile application especially with flutter.
-- 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP webapps.
+- 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP web applications.
 - 💬 Ask me about Laravel, Flutter, and React Native.
 - 💻 Visit my [Portfolio](https://vernonthedev.github.io) for extra info and collaboration info.
 <!--End Intro-->
