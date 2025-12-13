@@ -9,13 +9,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Web and Mobile App Dev. Laravel. Flutter 💎 React 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, Next.js, REST API, Data Analytics, and Data Visualization... </p>
+<p align="left">Web and Mobile App Dev. Laravel. Flutter, React . GraphQL ⛓ Blockchain | Python,React.js, Node.js, Django, Next.js, REST API, Data Analytics, and Data Visualization... </p>
 
-- 🌱 I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity space....
-- ✍ I am passionate about AI in mobile applications, especially with Flutter.
-- 🔭 I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP web applications.
-- 💬 Ask me about Laravel, Flutter, and React Native.
-- 💻 Visit my [Portfolio](https://vernonthedev.github.io) for collaboration and working details..
+- I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity space....
+- I am passionate about AI in mobile applications, especially with Flutter.
+- I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP web applications.
+- Ask me about Laravel, Flutter, and React Native.
+- Visit my [Portfolio](https://vernonthedev.vercel.app) for collaboration and working details..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -36,7 +36,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/vernonthedev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
