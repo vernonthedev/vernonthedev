@@ -1,4 +1,4 @@
-<!-- Night Owl Image -->
+u<!-- Night Owl Image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -11,7 +11,7 @@
 <!--Start Intro-->               
 <p align="left">Web and Mobile App Dev. Laravel. Flutter, React . GraphQL, Solidity Python,React.js, Node.js, Django, Next.js, REST API, Data Analytics, and Data Visualization... </p>
 
-- I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity space....
+- I’m learning many things, and I believe that every day is a learning and grinding opportunity, and I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity realm....
 - I am passionate about AI in mobile applications, especially with Flutter.
 - I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP web applications.
 - Ask me about Laravel, Flutter, and React Native.
