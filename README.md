@@ -15,7 +15,7 @@
 - I am passionate about AI in mobile applications, especially with Flutter.
 - I’m currently working on Flutter & Laravel applications with Nestjs APIs, TailwindCSS, and GSAP web applications.
 - Ask me about Laravel, Flutter, and React Native.
-- Visit my [Portfolio](https://vernonthedev.vercel.app) for collaboration and other details..
+- Visit my [Portfolio](https://vernonthedev.vercel.app) for collaboration and other project details..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
