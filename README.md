@@ -3,12 +3,12 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header-->
+<!--Header text & emoji-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
 *(Developer)*
 <br /> 
 
-<!--Start Intro-->               
+<!--Intro-->               
 <p align="left">Web, Mobile App Development. Laravel. Flutter, React. GraphQL, Solidity, Python, React.js, Node.js, Django, Next.js, REST API, Data Analytics, and Data Visualization... </p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity realm....
