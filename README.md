@@ -59,10 +59,12 @@
 </div>
 
 <!-- Stats -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vernonthedev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="vernonthdev stats badges">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vernonthedev&theme=radical&hide_border=false" alt="vernonthedev streak badge">
-</div>
+</div> -->
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level&theme=react&fontFamily=DM%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--Footer--> 
 <p align="center">
