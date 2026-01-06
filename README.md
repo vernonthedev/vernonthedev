@@ -11,7 +11,7 @@
 <!--Intro-->               
 <p align="left">Web, Mobile App Development. Laravel. Flutter, React. GraphQL, Solidity, Python, React.js, Node.js, Django, Next.js, REST API, GraphQL</p>
 
-- I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space as well as the cybersecurity realm....
+- I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm....
 - I am passionate about AI in mobile applications, especially with Flutter.
 - I’m currently working on Flutter & Laravel applications with NestJS APIs, TailwindCSS, and GSAP web applications.
 - Ask me about Laravel, Flutter, React, and React Native.
