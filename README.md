@@ -22,7 +22,7 @@
 <div align="left">
 <p>
   <img src="https://komarev.com/ghpvc/?username=vernonthedev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="vernonthedev" style="padding-right:20px;" />
-</p>
+
 <a href="https://www.linkedin.com/in/vernonthedev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -36,7 +36,9 @@
 </a>
 
 <a href="https://www.buymeacoffee.com/vernonthedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</p>
 </div>
+
 ---
 <br />
 
