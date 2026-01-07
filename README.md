@@ -66,7 +66,7 @@
 
 
 <div align="center">
-  <img src="[https://awesome-github-stats.azurewebsites.net/](https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
   <img src="https://streak-stats.demolab.com?user=vernonthedev&theme=radical" alt="vernonthedev streak badge">
 </div>
 <!--Footer--> 
