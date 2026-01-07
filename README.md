@@ -19,12 +19,27 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
+<div align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=vernonthedev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="vernonthedev" style="padding-right:20px;" />
 </p>
+<a href="https://www.linkedin.com/in/vernonthedev" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:techjaja2@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=thokerunga200@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://x.com/vernonthedev" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="verononthedev Twitter" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.buymeacoffee.com/vernonthedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
 ---
 <br />
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
@@ -33,30 +48,6 @@
 <br />
 
 ---
-
-<!--Contact Section--> 
-
-<h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/vernonthedev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:techjaja2@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=thokerunga200@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-
-<a href="https://x.com/vernonthedev" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="verononthedev Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/vernonthedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 <!-- Stats -->
 <!-- <div align="center">
