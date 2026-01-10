@@ -5,7 +5,7 @@
 
 <!--Header text & emoji-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
-*(Developer)*
+*(Developer / Programmer)*
 <br /> 
 
 <!--Intro-->               
@@ -45,7 +45,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,py,js,html,css,react,nodejs,django,solidity,postgres,mongo,git,vscode,docker,aws,postman,php,java,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,py,js,html,go,css,react,nodejs,django,solidity,postgres,mongo,git,vscode,docker,aws,postman,php,java,linux&perline=10"  />
 </p>
 <br />
 
