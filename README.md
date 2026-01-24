@@ -43,7 +43,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,py,js,html,go,css,react,nodejs,django,postgres,mongo,git,vscode,docker,aws,postman,php,java,linux&perline=10"  />
 </p>
