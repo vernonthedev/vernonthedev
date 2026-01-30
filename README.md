@@ -64,7 +64,8 @@
 
 ## Current Projects
 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React Typescript Based Dashboard. <br>
-🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator.
+🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
+🧑‍💻 [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
 
 <!--Footer--> 
 <p align="center">
