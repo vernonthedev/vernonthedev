@@ -61,6 +61,10 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
   <img src="https://streak-stats.demolab.com?user=vernonthedev&theme=radical" alt="vernonthedev streak badge">
 </div>
+
+## Current Projects
+🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React Typescript Based Dashboard. 
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
