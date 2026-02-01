@@ -63,6 +63,7 @@
 </div>
 
 ## Current Projects
+- 🧙‍♂️ [Care Confirm](https://careconfirm.vercel.app) - Helping therapists, & service professionals reduce missed appointments by automated reminders, & rescheduling. <br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React Typescript Based Dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
 - 📊 [Church Ledger](https://ghostwhite-rhinoceros-840545.hostingersite.com/) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
