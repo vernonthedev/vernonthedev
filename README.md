@@ -63,7 +63,7 @@
 </div>
 
 ## Current Projects
- 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
+- 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.vercel.app) - Helping therapists, & service professionals reduce missed appointments by automated reminders, & rescheduling. <br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React Typescript Based Dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
