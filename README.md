@@ -62,7 +62,7 @@
 - 🧙‍♂️ [Care Confirm](https://careconfirm.vercel.app) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React TypeScript-based dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
-- 📊 [Church Ledger](https://ghostwhite-rhinoceros-840545.hostingersite.com/) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
+- 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
 - 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Church Ledger Admin System Comprehensive Documentation(Fuma Docs) <br>
 - 🖥️ [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
 
