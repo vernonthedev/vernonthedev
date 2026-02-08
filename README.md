@@ -13,9 +13,9 @@
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm....
 - I am passionate about AI in mobile applications, especially with Flutter.
-- I’m currently working on Flutter, React Native & Laravel applications with NestJS APIs, TailwindCSS, and GSAP web applications as well as Nextjs to be versatile.
-- Ask me about Laravel, Flutter, React, and React Native as well as Nextjs.
-- Visit my [portfolio](https://vernonthedev.vercel.app) for more info..
+- I’m currently working on Flutter, React Native & Laravel applications with NestJS APIs, TailwindCSS, and GSAP web applications, as well as NextJS to be versatile.
+- Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
+- Visit my [portfolio](https://vernonthedev.vercel.app) for more collaboration details..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
