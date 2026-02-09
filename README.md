@@ -60,10 +60,10 @@
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer Chrome Extension. <br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.vercel.app) - Helping therapists, & service professionals reduce missed appointments.<br>
-- 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Devnova is a Custom Modern React TypeScript-based dashboard. <br>
+- 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Custom Modern React TypeScript-based dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
 - 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
-- 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Church Ledger Admin System Comprehensive Documentation(Fuma Docs) <br>
+- 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Admin System Comprehensive Documentation(Fuma Docs) <br>
 - 🖥️ [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
 
 <!--Footer--> 
