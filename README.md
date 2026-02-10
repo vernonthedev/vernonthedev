@@ -15,7 +15,7 @@
 - I am passionate about AI in mobile applications, especially with Flutter.
 - I’m currently working on Flutter, React Native & Laravel applications with NestJS APIs, TailwindCSS, and GSAP web applications, as well as NextJS to be versatile.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
-- Visit my [portfolio](https://vernonthedev.vercel.app) for more details..
+- Visit my [portfolio](https://vernon.skope.au) for more details..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -59,7 +59,7 @@
 ## Current Projects
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer Chrome Extension. <br>
-- 🧙‍♂️ [Care Confirm](https://careconfirm.vercel.app) - Helping therapists, & service professionals reduce missed appointments.<br>
+- 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Custom Modern React TypeScript-based dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
 - 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
