@@ -65,6 +65,7 @@
 - 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
 - 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Admin System Comprehensive Documentation(Fuma Docs) <br>
 - 🖥️ [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
+- 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Project | Multi-tenant backend for sending + scheduling reminders <br>
 
 <!--Footer--> 
 <p align="center">
