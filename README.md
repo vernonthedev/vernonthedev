@@ -58,6 +58,8 @@
 
 ## Current Projects
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
+- 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives NestJS-style structure (modules, controllers, services, DI).<br>
+- 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer Chrome Extension. <br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Custom Modern React TypeScript-based dashboard. <br>
@@ -65,7 +67,6 @@
 - 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
 - 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Admin System Comprehensive Documentation(Fuma Docs) <br>
 - 🖥️ [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
-- 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 
 <!--Footer--> 
 <p align="center">
