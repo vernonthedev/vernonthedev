@@ -68,7 +68,7 @@
 - 📜 [Docs Church Ledger](https://docs-churchledger.vercel.app/) - Admin System Comprehensive Documentation(Fuma Docs) <br>
 - 🖥️ [Github Desktop Client](https://github.com/vernonthedev/github-desktop-client) -  Easily manage your GitHub repositories on Linux & GitHub Actions workflows <br>
 - 🎨 [Astro UI Theme](https://astropackage.vercel.app) -  A Retro Astro UI Design Template <br>
-- 🧮 [Hymnal Browser Plugin](https://github.com/vernonthedev/hymnal-browser-plugin) -  OBS & VMIX browser source plugin that displays lowerthirds for all SDA Hymns <br>
+- 🧮 [Hymnal Browser Plugin](https://github.com/vernonthedev/hymnal-browser-plugin) -  Electron Desktop App for OBS & VMIX browser source plugin that displays lowerthirds for all SDA Hymns <br>
 
 <!--Footer--> 
 <p align="center">
