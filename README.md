@@ -59,7 +59,7 @@
 ## Current Projects.
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives NestJS-style structure (modules, controllers, services, DI).<br>
-- 👻 [NestForge Documentation](https://github.com/vernonthedev/nestforge-documentation) - Astro Documentation for the `Nesforge Framework` .<br>
+- 👻 [NestForge Documentation](https://nestforge.vercel.app) - Astro Documentation for the `Nesforge Framework` .<br>
 - 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer Chrome Extension. <br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
