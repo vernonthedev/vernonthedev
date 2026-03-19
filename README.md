@@ -60,6 +60,7 @@
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives `NestJS`-style structure (modules, controllers, services, DI).<br>
 - 👻 [NestForge Documentation](https://nestforge.suredoc.net) - Astro Documentation for the `Nesforge Framework` .<br>
+- 🧿 [NestForge Web](https://github.com/vernonthedev/nestforge-web) - Full-stack framework combining NestForge's high-performance Rust backend with Next.js .<br>
 - 🧩 [NestForge Extension](https://marketplace.visualstudio.com/items?itemName=vernonthedev.nestforge) - Official VS Code extension for the `Nestforge Framework`.<br>
 - 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer `Chrome` Extension. <br>
