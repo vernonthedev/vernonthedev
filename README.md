@@ -73,6 +73,7 @@
 - 🎨 [Astro UI Theme](https://astropackage.vercel.app) -  A Retro Astro UI Design Template <br>
 - 🧮 [Hymnal Browser Plugin](https://github.com/vernonthedev/hymnal-browser-plugin) -  Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
 - 🤖 [GitHub PR Comments Retriever](https://github.com/vernonthedev/pr-comments-retriever) -  A VSCode extension to retrieve and save all comments from a GitHub pull request. <br>
+- 🎛️ [Hymnal Broadcast Console](https://hymnconsole.vercel.app/) -  The Pro & Premium Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
 
 <!--Footer--> 
 <p align="center">
