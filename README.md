@@ -42,7 +42,7 @@
 ---
 <br />
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools -->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,css,react,nodejs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
