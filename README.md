@@ -74,7 +74,8 @@
 - 🧮 [Hymnal Browser Plugin](https://github.com/vernonthedev/hymnal-browser-plugin) -  Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
 - 🤖 [GitHub PR Comments Retriever](https://github.com/vernonthedev/pr-comments-retriever) -  A VSCode extension to retrieve and save all comments from a GitHub pull request. <br>
 - 🎛️ [Hymnal Broadcast Console](https://hymnconsole.vercel.app/) -  The Premium Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
-- 🧩 [Farm Store Uganda](https://farmstoreug.vercel.app) -  Your trusted source for fresh, local produce and farm-fresh good in Uganda. <br>
+- 🧩 [Farm Store Uganda](https://farmstoreug.vercel.app) -  Your trusted source for fresh, local produce and farm-fresh goods in Uganda. <br>
+- 📜 [Makae Fleet](https://makaefleet.vercel.app) -  Tourism Company Booking System. <br>
 
 <!--Footer--> 
 <p align="center">
