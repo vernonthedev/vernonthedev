@@ -39,7 +39,7 @@
 </p>
 </div>
 
----
+
 <br />
 
 <!--Languages and Tools -->       
@@ -49,7 +49,6 @@
 </p>
 <br />
 
----
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
