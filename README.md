@@ -72,7 +72,7 @@
 - 🎨 [Astro UI Theme](https://astropackage.vercel.app) -  A Retro Astro UI Design Template <br>
 - 🧮 [Hymnal BroadCast Console](https://github.com/vernonthedev/hymnal-broadcast-console) -  Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
 - 🤖 [GitHub PR Comments Retriever](https://github.com/vernonthedev/pr-comments-retriever) -  A VSCode extension to retrieve and save all comments from a GitHub pull request. <br>
-- 🎛️ [Hymnal Broadcast Console - Pro](https://hymnconsole.vercel.app/) -  The Premium Desktop App for OBS & VMIX plugin that displays lowerthirds for all SDA Hymns <br>
+- 🎛️ [Hymnal Broadcast Console - Pro](https://hymnconsole.vercel.app/) -  The Pro Desktop App for OBS & VMIX that displays lowerthirds SDA Hymns <br>
 - 📜 [Makae Fleet](https://makaefleet.vercel.app) -  Tourism Company Booking System. <br>
 - 🧩 [Farm Store Uganda](https://farmstoreug.vercel.app) -  Your trusted source for fresh, local produce and farm-fresh goods in Uganda. <br>
 - 🧰 [Tokendrop](https://tdconfig.vercel.app) -  Secret Environment Variables' Configuration Management System. <br>
