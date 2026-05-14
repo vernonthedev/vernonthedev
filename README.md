@@ -9,11 +9,11 @@
 <br /> 
 
 <!--Intro-->               
-<p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, React.js, Node.js, Django, Next.js, REST API, GraphQL, Convex Database</p>
+<p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, React.js, Tanstack Start, Node.js, Django, Next.js, REST API, GraphQL, Convex Database</p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm....
-- I am passionate about AI in mobile applications, especially with Flutter.
-- I’m currently working on Flutter, React Native & Laravel applications with NestJS APIs, Rust backends, TailwindCSS, and GSAP web applications, as well as NextJS to be versatile.
+- I am passionate about AI in mobile applications, especially with Flutter and React Native
+- I’m currently working on Tanstack Start Applications & Rust Backends..
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
 - Visit my [portfolio](https://vernon.skope.au) for more info 
 <!--End Intro-->
@@ -45,7 +45,7 @@
 <!--Languages and Tools -->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,css,react,nextjs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,nestjs,react,nextjs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
 </p>
 <br />
 
