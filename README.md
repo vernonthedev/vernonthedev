@@ -76,6 +76,7 @@
 - 📜 [Makae Fleet](https://makaefleet.vercel.app) -  Tourism Company Booking System. <br>
 - 🧩 [Farm Store Uganda](https://farmstoreug.vercel.app) -  [BETA Release] Your trusted source for fresh, local produce and farm-fresh goods in Uganda. <br>
 - 🧰 [Tokendrop](https://tdconfig.vercel.app) -  Secret Environment Variables' Configuration Management System. <br>
+- 🧽 [Chatmod](https://chatmod.vercel.app) -  Real-time community platform for faith-based groups featuring live messaging and unified feeds. <br>
 
 <!--Footer--> 
 <p align="center">
