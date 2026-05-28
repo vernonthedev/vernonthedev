@@ -5,11 +5,11 @@
 
 <!--Header text-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
-***Fullstack Developer***
+**Fullstack Developer**
 <br /> 
 
 <!--Intro-->               
-<p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, React.js, Tanstack Start, Node.js, Django, Next.js, REST API, GraphQL, Convex Database</p>
+<p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, React.js, Tanstack Start, Node.js, Django, Next.js, REST API, GraphQL, Convex Database, RPC & GRPC, AWS.</p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm....
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
