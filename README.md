@@ -11,9 +11,9 @@
 <!--Intro-->               
 <p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, React.js, Tanstack Start, Node.js, Django, Next.js, REST API, GraphQL, Convex Database, RPC & GRPC, AWS.</p>
 
-- I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm....
+- I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
-- I’m currently working on Tanstack Start Applications & Rust Backends..
+- I’m currently working on Tanstack Start Applications & Rust Backends.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
 - Visit my [portfolio](https://vernon.skope.au) for more details 
 <!--End Intro-->
