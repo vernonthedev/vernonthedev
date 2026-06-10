@@ -61,6 +61,7 @@
 - 👻 [NestForge Documentation](https://nestforge.suredoc.net) - Astro Documentation for the `Nesforge Framework` .<br>
 - 🧿 [NestForge Web](https://github.com/vernonthedev/nestforge-web) - Full-stack framework combining NestForge's high-performance Rust backend with Next.js .<br>
 - 🧩 [NestForge Extension](https://marketplace.visualstudio.com/items?itemName=vernonthedev.nestforge) - Official VS Code extension for the `Nestforge Framework`.<br>
+- 🩹 [NestForge NPM Package](https://www.npmjs.com/package/nestforge-cli) - Official **NPM** package for the `Nestforge Framework`.<br>
 - 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer `Chrome` Extension. <br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
