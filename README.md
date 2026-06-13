@@ -15,7 +15,7 @@
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
 - I’m currently working on Tanstack Start Applications & Rust Backends.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
-- Visit my [portfolio](https://vernon.skope.au) for more details 
+- Visit my [portfolio](https://vernon.skope.au) for more info 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
