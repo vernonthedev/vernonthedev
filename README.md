@@ -13,7 +13,7 @@
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
-- I’m currently working on Tanstack Start Applications & Rust Backends.
+- I’m currently working on `Tanstack Start` Applications & Rust Backends.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
   
 Visit my profile for more info: <br />
