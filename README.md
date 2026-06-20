@@ -56,7 +56,7 @@ Visit my profile for more info: <br />
 </div>
 
 
-## GitHub Activity
+<!-- ## GitHub Activity -->
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vernonthedev&hide_border=true)
 
 ## Current Projects.
