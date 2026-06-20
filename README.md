@@ -5,7 +5,7 @@
 
 <!--Header text-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
-**Full Stack Developer**
+**Full Stack Developer** [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vernonthedev)
 <br /> 
 
 <!--Intro-->               
@@ -32,14 +32,12 @@
 </a>
 
 <a href="https://x.com/vernonthedev" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="verononthedev Twitter" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/@vernonthedev-000000?style=for-the-badge&logo=x&logoColor=white" alt="vernonthedev X" />
 </a>
 
 <a href="https://www.buymeacoffee.com/vernonthedev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </p>
 </div>
-
-
 <br />
 
 <!--Languages and Tools -->       
