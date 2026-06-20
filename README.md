@@ -49,11 +49,14 @@
 </p>
 <br />
 
-
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
   <img src="https://streak-stats.demolab.com?user=vernonthedev&theme=radical" alt="vernonthedev streak badge">
 </div>
+
+
+## GitHub Activity
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vernonthedev&hide_border=true)
 
 ## Current Projects.
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
