@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Intro-->               
-<p align="left">Web & Mobile App Development. Laravel. Flutter, React. GraphQL, NestJs, Go, Python, Tanstack Start, Node.js, Django, Next.js, REST API, GraphQL, Convex Database, RPC & GRPC, AWS.</p>
+<p align="left">I build web, mobile, desktop, and cloud applications with a focus on developer tooling, business automation, and scalable SaaS products.Over the years, I've worked across Laravel, Flutter, React, Next.js, NestJS, Rust, Go, and cloud-native technologies to help businesses streamline operations, improve productivity, and launch products faster.</p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity. I am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
