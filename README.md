@@ -5,7 +5,7 @@
 
 <!--Header text-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
-**Full Stack Software Engineer** · **Open Source Builder** · **Content Creator** [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vernonthedev) 
+**Full Stack Developer** · **Open Source Builder** · **Content Creator** [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vernonthedev) 
 <br /> 
 
 <!--Intro-->               
