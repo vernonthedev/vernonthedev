@@ -16,7 +16,7 @@
 - I’m currently working on Tanstack Start Applications & Rust Backends.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
   
-Visit my profile for more info: <br />
+Visit detailed profile for more info: <br />
 [![](https://img.shields.io/badge/vernon.skope.au-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.skope.au)
 <!--End Intro-->
 
