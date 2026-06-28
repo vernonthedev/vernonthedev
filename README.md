@@ -49,15 +49,16 @@ Visit detailed profile for more info: <br />
 <img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,nestjs,react,nextjs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
 </p>
 <br />
-
+<!--
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
   <img src="https://streak-stats.demolab.com?user=vernonthedev&theme=radical" alt="vernonthedev streak badge">
 </div>
+-->
 
-
-<!-- ## GitHub Activity -->
+<!-- ## GitHub Activity 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vernonthedev&hide_border=true)
+-->
 
 ## Current Projects.
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
