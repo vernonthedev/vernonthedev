@@ -44,7 +44,7 @@ Visit detailed profile for more info: <br />
 <br />
 
 <!--Languages and Tools -->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2> 
+<h2 align="center"> Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs </h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,nestjs,react,nextjs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
 </p>
