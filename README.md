@@ -56,10 +56,10 @@ Visit detailed profile for more info: <br />
 </div>
 
 
-<!-- ## GitHub Activity -->
+<!-- ## GitHub Activity
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vernonthedev&hide_border=true)
-
-
+ -->
+ 
 ## Current Projects.
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives `NestJS`-style structure (modules, controllers, services, DI).<br>
