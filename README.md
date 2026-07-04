@@ -50,6 +50,16 @@ Visit detailed profile for more info: <br />
 </p>
 <br />
 
+<!-- Commit History -->
+<div align="center">
+  <a href="https://commit-history.com/vernonthedev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/vernonthedev?theme=dark" />
+      <img alt="vernonthedev's commit history" src="https://commit-history.com/embed/vernonthedev" />
+    </picture>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
   <img src="https://streak-stats.demolab.com?user=vernonthedev&theme=radical" alt="vernonthedev streak badge">
