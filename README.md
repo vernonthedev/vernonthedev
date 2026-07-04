@@ -85,14 +85,7 @@ Visit detailed profile for more info: <br />
 - 🧽 [Chatmod](https://chatmod.vercel.app) -  Real-time community platform for faith-based groups featuring live messaging and unified feeds. <br>
 - 🌏 [AfricaOS](https://africaos.freshclouds.net) - Modular SaaS Operating System for African Enterprise Systems <br>
 
-<!--  Project Banner 
-<a href="https://github.com/vernonthedev/nestforge">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/vernonthedev/nestforge&mode=dark&style=horizontal" />
-</a>
--->
 <!--Main Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
