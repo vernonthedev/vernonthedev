@@ -50,7 +50,7 @@ Visit detailed profile for more info: <br />
 </p>
 <br />
 
-<!-- Commit History -->
+<!-- Commit History 
 <div align="center">
   <a href="https://commit-history.com/vernonthedev">
     <picture>
@@ -59,6 +59,7 @@ Visit detailed profile for more info: <br />
     </picture>
   </a>
 </div>
+-->
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vernonthedev?cardType=level-alternate&theme=radical&fontFamily=&preferLogin=false" alt="vernonthdev stats badges">
