@@ -95,6 +95,7 @@ Visit detailed profile for more info: <br />
 - 🧰 [Tokendrop](https://tdconfig.vercel.app) -  Secret Environment Variables' Configuration Management System. <br>
 - 🧽 [Chatmod](https://chatmod.vercel.app) -  Real-time community platform for faith-based groups featuring live messaging and unified feeds. <br>
 - 🌏 [AfricaOS](https://africaos.freshclouds.net) - Modular SaaS Operating System for African Enterprise Systems <br>
+- 🛡️ [Encryptd](https://encryptd.mintlify.site) - Github Package that encrypts and decrypts .env files to .enc that can be git added. <br>
 
 <!--Main Footer--> 
 <p align="center">
