@@ -5,15 +5,15 @@
 
 <!--Header text-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm vernonthedev!
-**Full Stack Developer** · **Open Source Builder** · **Content Creator** [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vernonthedev) 
+**Full Stack Engineer** · **Open Source** · **Content Creator** [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vernonthedev) 
 <br /> 
 
 <!--Intro-->               
-<p align="left">I build web, mobile, desktop, and cloud applications with a focus on developer tooling, business automation, and scalable SaaS products. Over the years, I've worked across Laravel, Flutter, React, Next.js, NestJS, Rust, Go, and cloud-native technologies to help businesses streamline operations, improve productivity, and launch products faster.</p>
+<p align="left">I build web, mobile, desktop, and cloud applications with a focus on developer tooling, business automation, and scalable SaaS products. Over the years, I've worked across Laravel, Flutter, React, Effect TS, Next.js, NestJS, Rust, Go, and cloud-native technologies to help businesses streamline operations, improve productivity, and launch products faster.</p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity & am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
-- I’m currently working on Tanstack Start Applications & Rust Backends.
+- I'm currently building enterprise applications with TanStack Start, Effect TS, and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
 - Ask me about Laravel, Flutter, React, and React Native as well as NextJS.
   
 Visit detailed profile for more info: <br />
