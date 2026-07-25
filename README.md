@@ -18,7 +18,6 @@
   
 Visit detailed profile for more info: <br />
 [![](https://img.shields.io/badge/vernon.skope.au-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.skope.au)
-<!--End Intro-->
 
 <!--Profile Count Badge-->
 <div align="left">
