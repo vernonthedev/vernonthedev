@@ -43,7 +43,7 @@
 <br />
 
 <!--Languages and Tools -->       
-<h2 align="center"> Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs </h2> 
+<h2 align="center"> Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=flutter,laravel,rust,py,ts,html,go,nestjs,react,nextjs,django,postgres,mongo,git,docker,aws,postman,php,lua,linux&perline=10"  />
 </p>
