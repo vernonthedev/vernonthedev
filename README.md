@@ -69,6 +69,7 @@
 <!-- GitHub Activity
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vernonthedev&hide_border=true)
  -->
+ 
 <!--
 [![vernonthedev profile views](https://u8views.com/api/v1/github/profiles/108737724/views/day-week-month-total-count.svg)](https://u8views.com/github/vernonthedev)
 -->
