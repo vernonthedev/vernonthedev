@@ -14,7 +14,7 @@
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity & am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
 - I'm currently building enterprise applications with TanStack Start, Effect TS, and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
-- Ask me about TanStack Start, Laravel, Flutter, React, and React Native as well as NextJS.
+- Ask me about TanStack Start, Laravel, Flutter, React, and React Native, as well as NextJS.
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 [![](https://img.shields.io/badge/vernon.skope.au-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.skope.au)
@@ -74,7 +74,7 @@
 [![vernonthedev profile views](https://u8views.com/api/v1/github/profiles/108737724/views/day-week-month-total-count.svg)](https://u8views.com/github/vernonthedev)
 -->
 
-## Current Projects.
+## Current Projects
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
 - 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives `NestJS`-style structure (modules, controllers, services, DI).<br>
 - 👻 [NestForge Documentation](https://nestforge.suredoc.net) - Astro Documentation for the `Nesforge Framework` .<br>
@@ -82,7 +82,7 @@
 - 🧩 [NestForge Extension](https://marketplace.visualstudio.com/items?itemName=vernonthedev.nestforge) - Official VS Code extension for the `Nestforge Framework`.<br>
 - 🩹 [NestForge NPM Package](https://www.npmjs.com/package/nestforge-cli) - Official **NPM** package for the `Nestforge Framework`.<br>
 - 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
-- 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - Github Folder Explorer `Chrome` Extension. <br>
+- 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - GitHub Folder Explorer `Chrome` Extension. <br>
 - 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Custom Modern React TypeScript-based dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
@@ -98,7 +98,7 @@
 - 🧰 [Tokendrop](https://tdconfig.vercel.app) -  Secret Environment Variables' Configuration Management System. <br>
 - 🧽 [Chatmod](https://chatmod.vercel.app) -  Real-time community platform for faith-based groups featuring live messaging and unified feeds. <br>
 - 🌏 [AfricaOS](https://africaos.freshclouds.net) - Modular SaaS Operating System for African Enterprise Systems <br>
-- 🛡️ [Encryptd](https://encryptd.mintlify.site) - Github Package that encrypts and decrypts .env files to .enc that can be git added. <br>
+- 🛡️ [Encryptd](https://encryptd.mintlify.site) - GitHub package that encrypts and decrypts .env files to .enc that can be added to Git. <br>
 
 <!--Main Footer--> 
 <p align="center">
