@@ -16,7 +16,7 @@
 - I'm currently building enterprise applications with TanStack Start, Effect TS, and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
 - Ask me about TanStack Start, Laravel, Flutter, React, and React Native, as well as NextJS.
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Shipping Ranking at [Shiprank](https://shiprank.dev/vernonthedev)... 
 [![](https://img.shields.io/badge/vernon.skope.au-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.skope.au)
 
 <!--Profile Count Badge-->
