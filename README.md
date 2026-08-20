@@ -13,7 +13,8 @@
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity & am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
-- I'm currently building enterprise applications with TanStack Start, Effect Typescript, and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
+- I'm currently building enterprise applications with TanStack Start, Effect TypeScript,
+and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
 - Ask me about TanStack Start, Laravel, Flutter, React, and React Native, as well as NextJS.
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Shipping Ranking at [Shiprank](https://shiprank.dev/vernonthedev)... 
