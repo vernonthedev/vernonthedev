@@ -99,6 +99,7 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 - 🧰 [Tokendrop](https://tdconfig.vercel.app) -  Secret Environment Variables' Configuration Management System. <br>
 - 🧽 [Chatmod](https://chatmod.vercel.app) -  Real-time community platform for faith-based groups featuring live messaging and unified feeds. <br>
 - 🌏 [AfricaOS](https://africaos.freshclouds.net) - Modular SaaS Operating System for African Enterprise Systems <br>
+- 📜 [AfricaOS Documentation](https://africaos-docs.vercel.app) - User Documentation for AfricaOS <br>
 - 🛡️ [Encryptd](https://encryptd.mintlify.site) - GitHub package that encrypts and decrypts .env files to .enc that can be added to Git. <br>
 
 <!--Main Footer--> 
