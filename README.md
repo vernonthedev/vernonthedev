@@ -18,7 +18,7 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 - Ask me about TanStack Start, Laravel, Flutter, React, and React Native, as well as NextJS.
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Shipping Ranking at [Shiprank](https://shiprank.dev/vernonthedev)... 
-[![](https://img.shields.io/badge/vernon.skope.au-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.skope.au)
+[![](https://img.shields.io/badge/vernon.vlabs.cc-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.vlabs.cc)
 
 <!--Profile Count Badge-->
 <div align="left">
