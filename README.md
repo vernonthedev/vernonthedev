@@ -77,6 +77,7 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 
 ## Current Projects
 - 👀 [Veike Salon Supplies](https://veikesalonsupplies.com) - Ecommerce Platform for Salon & High quality beauty products.<br>
+- 🧙‍♂️ [Care Confirm](https://careconfirm.medic.hk) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🦀 [NestForge](https://github.com/vernonthedev/nestforge) - Rust backend framework that gives `NestJS`-style structure (modules, controllers, services, DI).<br>
 - 👻 [NestForge Documentation](https://nestforge.suredoc.net) - Astro Documentation for the `Nesforge Framework` .<br>
 - 🧿 [NestForge Web](https://github.com/vernonthedev/nestforge-web) - Full-stack framework combining NestForge's high-performance Rust backend with Next.js .<br>
@@ -84,7 +85,6 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 - 🩹 [NestForge NPM Package](https://www.npmjs.com/package/nestforge-cli) - Official **NPM** package for the `Nestforge Framework`.<br>
 - 🫐 [Midnight Notify](https://github.com/veikeAgency/midnight) -  Axum Rust Backend Multi-tenant Rest APIs for sending + scheduling reminders <br>
 - 👌 [Github Explorer2](https://github.com/vernonthedev/github-explorer2) - GitHub Folder Explorer `Chrome` Extension. <br>
-- 🧙‍♂️ [Care Confirm](https://careconfirm.solet.us) - Helping therapists, & service professionals reduce missed appointments.<br>
 - 🗃️ [Devnova](https://devnova-lyart.vercel.app/) - Custom Modern React TypeScript-based dashboard. <br>
 - 🧑‍💻 [Git Green](https://git-green-orpin.vercel.app/) - Cool Terminal & GUI Git Commit Graphs App Generator. <br>
 - 📊 [Church Ledger](https://churchledger.linkpc.net) - Helping churches reduce admin chaos and gain clarity on members, attendance, and giving. <br>
@@ -102,7 +102,6 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 - 📜 [AfricaOS Documentation](https://africaos.duckdns.org/) - User Documentation for AfricaOS <br>
 - 🛡️ [Encryptd](https://encryptd.mintlify.site) - GitHub package that encrypts and decrypts .env files to .enc that can be added to Git. <br>
 
-<!--Main Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
