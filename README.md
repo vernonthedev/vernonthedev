@@ -101,7 +101,7 @@ and Rust, focusing on type-safe architectures, workflows, and scalable backend s
 - 🌏 [AfricaOS](https://africaos.freshclouds.net) - Modular SaaS Operating System for African Enterprise Systems <br>
 - 📜 [AfricaOS Documentation](https://africaos.duckdns.org/) - User Documentation for AfricaOS <br>
 - 🛡️ [Encryptd](https://encryptd.mintlify.site) - GitHub package that encrypts and decrypts .env files to .enc that can be added to Git. <br>
-
+- 🤖 [Forge Review](https://github.com/vernonthedev/forge-review) - GitHub AI Code Reviewer powered by configurable OpenAI-compatible LLMs, reviews PRs asynchronously <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
