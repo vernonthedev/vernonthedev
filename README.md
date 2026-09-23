@@ -9,16 +9,46 @@
 <br /> 
 
 <!--Intro-->               
-<p align="left">I build web, mobile, desktop, and cloud applications with a focus on developer tooling, business automation, and scalable SaaS products. Over the years, I've worked across Laravel, Flutter, React, Effect TS, Next.js, NestJS, Rust, Go, and cloud-native technologies to help businesses streamline operations, improve productivity, and launch products faster.</p>
+<!-- <p align="left">I build web, mobile, desktop, and cloud applications with a focus on developer tooling, business automation, and scalable SaaS products. Over the years, I've worked across Laravel, Flutter, React, Effect TS, Next.js, NestJS, Rust, Go, and cloud-native technologies to help businesses streamline operations, improve productivity, and launch products faster.</p>
 
 - I’m learning many things, and I believe that every day is a learning and grinding opportunity & am gaining more experience while enhancing my skills within the AI space and the cybersecurity realm.
 - I am passionate about AI in mobile applications, especially with Flutter and React Native
 - I'm currently building enterprise applications with TanStack Start, Effect TypeScript,
 and Rust, focusing on type-safe architectures, workflows, and scalable backend systems.
 - Ask me about TanStack Start, Laravel, Flutter, React, and React Native, as well as NextJS.
-  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Shipping Ranking at [Shiprank](https://shiprank.dev/vernonthedev)... 
-[![](https://img.shields.io/badge/vernon.vlabs.cc-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.vlabs.cc)
+-->
+
+<p align="left">
+I build Web, Mobile, Desktop, and Cloud Applications focused on Developer tooling, Business automation, and SaaS products. I work across
+<code>Laravel</code>,
+<code>React</code>,
+<code>Next.js</code>,
+<code>Flutter</code>,
+<code>React Native</code>,
+<code>TanStack Start</code>,
+<code>Effect TypeScript</code>,
+<code>Rust</code>,
+<code>Go</code>,
+and <code>cloud infrastructure</code>, with a strong focus on practical products, clean architecture, and shipping.
+I like building software that solves real operational problems.</p>
+
+### Product Engineering
+
+`SaaS platforms and business applications` | `Enterprise workflows and automation` | `Multi-tenant systems` | `Offline-first applications` | `Developer tools and infrastructure`
+
+### Platforms
+
+`Web applications` | `Mobile applications` | `Desktop applications` <br />
+`APIs and backend systems` | `Cloud-native infrastructure`
+
+I'm currently exploring type-safe application architectures, Rust backends, <br />
+TanStack Start, Effect TypeScript, AI-powered developer tooling, and scalable <br />
+offline systems.
+
+<!---
+> [!TIP]  -->
+> ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Track Coding Stats at [Shiprank](https://shiprank.dev/vernonthedev). 
+> [![](https://img.shields.io/badge/vernon.vlabs.cc-black?style=flat-square&logo=codesandbox&logoColor=white)](https://vernon.vlabs.cc)
 
 <!--Profile Count Badge-->
 <div align="left">
